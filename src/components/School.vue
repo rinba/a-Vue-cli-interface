@@ -11,8 +11,8 @@
 		name:'MySchool',
 		data(){
 			return {
-				name:'尚硅谷',
-				address:'北京昌平'
+				name:'一中',
+				address:'深圳南山'
 			}
 		},
 		methods: {
