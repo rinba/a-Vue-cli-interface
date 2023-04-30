@@ -6,8 +6,8 @@
 </template>
 
 <script>
-	 export default {
-		name:'Student',
+	export default {
+		name:'MyStudent',
 		data(){
 			return {
 				name:'张三',

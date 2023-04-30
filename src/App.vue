@@ -1,5 +1,6 @@
 <template>
 	<div>
+		<img src="./assets/logo.png" alt="logo">
 		<School></School>
 		<Student></Student>
 	</div>
@@ -7,8 +8,8 @@
 
 <script>
 	//引入组件
-	import School from './School.vue'
-	import Student from './Student.vue'
+	import School from './components/School'
+	import Student from './components/Student'
 
 	export default {
 		name:'App',

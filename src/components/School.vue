@@ -7,8 +7,8 @@
 </template>
 
 <script>
-	 export default {
-		name:'School',
+	export default {
+		name:'MySchool',
 		data(){
 			return {
 				name:'尚硅谷',
